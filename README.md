@@ -8,7 +8,7 @@ Já se perguntou como as formigas organizam suas colônias e quais são suas ave
 
 ### Como funciona?
 
-1. **Digite e Descubra:** Digite o gênero da formiga que te interessa na barra de pesquisa.
+1. **Digite e Descubra:** Digite o gênero da formiga que te interessa na barra de pesquisa, como por exemplor: SOLENOPSIS, LABIDUS ou PHEIDOLE.
 2. **Resultados Instantâneos:** A mágica acontece! A aplicação vasculha nossa base de dados e te apresenta todas as formigas que combinam com sua busca.
 3. **Explore à Vontade:** Cada resultado te leva a um perfil completo da formiga, com informações sobre suas altitudes, abundância e até uma foto para você dar uma olhadinha mais de perto.
 
